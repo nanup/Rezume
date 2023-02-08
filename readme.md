@@ -18,7 +18,8 @@
     <br />
     <!-- <a href="">View on Overleaf</a> -->
     <!-- · -->
-    <a href="https://www.overleaf.com/latex/templates/rezume/kfrvqywfkwjs">View on Overlear</a>
+    <a href="https://www.overleaf.com/latex/templates/rezume/kfrvqywfkwjs">View on Overleaf</a>
+    |
     <a href="https://github.com/nanup/Rezume/issues">Report Bug</a>
   </p>
 </div>
